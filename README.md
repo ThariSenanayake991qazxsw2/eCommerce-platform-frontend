@@ -1,6 +1,10 @@
+![screenshot book](https://github.com/ThariSenanayake991qazxsw2/eCommerce-platform-frontend/assets/106215434/6edf1091-0d5f-438b-8c7d-593dd4fd22c0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Uploading screenshot book.jpeg…]()
 
 ## Available Scripts
 
