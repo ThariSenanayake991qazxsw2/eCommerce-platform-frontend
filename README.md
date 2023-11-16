@@ -1,4 +1,5 @@
-![screenshot book](https://github.com/ThariSenanayake991qazxsw2/eCommerce-platform-frontend/assets/106215434/6edf1091-0d5f-438b-8c7d-593dd4fd22c0)
+
+![bookStore](https://github.com/ThariSenanayake991qazxsw2/eCommerce-platform-frontend/assets/106215434/ae66486d-4f37-4ea5-b121-c34b186d601b)
 
 
 # Getting Started with Create React App
